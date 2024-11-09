@@ -1,6 +1,7 @@
 ![logo](https://github.com/vivekdeveloper20/vivek/blob/main/vivback.png)
 <h1 align="center">Hi 👋, I'm Md Mazharul Haque</h1>
 <h3 align="center">A Passionate Full-Stack Developer from India 🇮🇳</h3>
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif"
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=cpon143&label=Profile%20Views&color=0e75b6&style=flat" alt="cpon143" />

@@ -6,6 +6,10 @@
       <!-- Text content on the left -->
       <h1>Hi 👋, I'm Md Mazharul Haque</h1>
       <h3>A Passionate Full-Stack Developer from India 🇮🇳</h3>
+      <p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=cpon143&label=Profile%20Views&color=0e75b6&style=flat" alt="cpon143" />
+  <img src="https://img.shields.io/github/followers/cpon143?style=flat&label=Followers" alt="followers" />
+</p>
     </td>
     <td style="text-align: right;">
       <!-- Image content on the right -->
@@ -13,10 +17,7 @@
     </td>
   </tr>
 </table>
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=cpon143&label=Profile%20Views&color=0e75b6&style=flat" alt="cpon143" />
-  <img src="https://img.shields.io/github/followers/cpon143?style=flat&label=Followers" alt="followers" />
-</p>
+
 
 ---
 

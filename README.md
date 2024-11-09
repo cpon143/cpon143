@@ -1,11 +1,19 @@
 ![logo](https://github.com/vivekdeveloper20/vivek/blob/main/vivback.png)
-<h1 align="left">Hi 👋, I'm Md Mazharul Haque</h1>
-<h3 align="left">A Passionate Full-Stack Developer from India 🇮🇳</h3>
+<!-- Container for text and image side by side -->
+<div style="display: flex; justify-content: space-between; align-items: center;">
 
-<!-- Fix alignment for image and text -->
-<p align="right">
-  <img alt="coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" />
-</p>
+  <!-- Text Section -->
+  <div>
+    <h1 align="left">Hi 👋, I'm Md Mazharul Haque</h1>
+    <h3 align="left">A Passionate Full-Stack Developer from India 🇮🇳</h3>
+  </div>
+
+  <!-- Image Section -->
+  <div>
+    <img alt="coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" />
+  </div>
+  
+</div>
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=cpon143&label=Profile%20Views&color=0e75b6&style=flat" alt="cpon143" />
   <img src="https://img.shields.io/github/followers/cpon143?style=flat&label=Followers" alt="followers" />

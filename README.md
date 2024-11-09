@@ -1,6 +1,6 @@
 ![logo](https://github.com/vivekdeveloper20/vivek/blob/main/vivback.png)
-<h1 align="center">Hi 👋, I'm Md Mazharul Haque</h1>
-<h3 align="center">A Passionate Full-Stack Developer from India 🇮🇳</h3>
+<h1 align="left">Hi 👋, I'm Md Mazharul Haque</h1>
+<h3 align="left">A Passionate Full-Stack Developer from India 🇮🇳</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif"
 
 <p align="center"> 

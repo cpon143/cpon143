@@ -1,4 +1,4 @@
-![logo](https://api.deepai.org/job-view-file/12a589e8-5f9f-4258-969a-a7a4eb1cf18e/outputs/output.jpg?art-image=true)
+![logo](https://github.com/cpon143/cpon143/blob/main/Untitled%20(1080%20x%20388%20px).png?raw=true)
 <!-- Container for text and image side by side -->
 <table>
   <tr>

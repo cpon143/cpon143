@@ -1,3 +1,4 @@
+![logo](https://github.com/vivekdeveloper20/vivek/blob/main/vivback.png)
 <h1 align="center">Hi 👋, I'm Md Mazharul Haque</h1>
 <h3 align="center">A Passionate Full-Stack Developer from India 🇮🇳</h3>
 
